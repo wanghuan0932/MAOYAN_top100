@@ -1,2 +1,2 @@
 # Python_exercise
-some exercise for Python programming
+Some exercise for Python programming
